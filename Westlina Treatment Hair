@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <http=equiv="X-UA-Compatible"-Content="IE=edge"></http>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Westlina Special Treat Hair</title>
+  <meta name="title"Content="INTEGRATED MEDICAL CARE LIMITED-home">
+<meta name="description" Content="This is a medical html template made by saviour Ezekiel">
+<html>
+<head>
+  <title> Westlina Treat Hair </title>
+  
+  <link href="css/style.css" type="text/css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    
+<div class="container-fluid sticky-top bg-white shadow-sm">
+  <div class="container-fluid">
+      <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0">
+          <a href="index.html" class="navbar-brand">
+              <h2 class="m-0  text-danger"></i><img src="WTH1.jpeg" alt="wth Logo" style="width:95px;" class="rounded-pill"> Westlina Treat Hair</h2>
+              <p>Contact Us: <i class="bi bi-telephone"></i>+234-706-320-0098  | westlinatreathair@gmail.com </p>
+            </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+              <div class="collapse navbar-collapse" id="navbarCollapse">
+                  <div class="navbar-nav ms-auto py-0">
+
+
+                      
+                      <a href="index.html" class="nav-item nav-link">Log In</a>
+                      <a href="about.html" class="nav-item nav-link">Creat Account</a>
+                      <a href="service.html" class="nav-item nav-link">Track Orders</a>
+                      <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                      <div class="nav-item dropdown">
+                          
+                         
+                             
+                             
+    
+                          </div>
+                      </div>
+                      <form class="d-flex mt-3 mt-lg-0" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </nav>
+                  </div>
+                  
+                  
+              </div>
+          </div>
+      </nav>
+  </div>
+</div>
+<!-- Navbar End -->
+
+
+
+
+                
+      
+ 
+  
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="navbar">
+    <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample08">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Wigs</a>
+          <ul class="dropdown-menu">
+            
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Human Wigs</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Lace  Wigs</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Synthetic Wigs</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">Something else here</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">African American</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Men's & Kid</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Extensions & Hair piece</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">New</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Sale</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Hair Expert</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+
+         </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+
+
+
+
+
+
+
+  
+ <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+ <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+ integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+ crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+ integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+ crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+ integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+ crossorigin="anonymous"></script><br>
+
+ 
+
+    <h3 style="color: rgb(125, 48, 226); font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 500 font-style:700;">YOUR BEAUTY, OUR PRIDE</h3>
+    
+    
+
+       
+            
+
+
+
+
+
+  
+      
+      <!-- The four columns -->
+      
+
+  <style>
+      div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 205px;
+      }
+      
+      div.gallery:hover {
+        border: 1px solid #777;
+      }
+      
+      div.gallery img {
+        width: 100%;
+        height: auto;
+      }
+      
+      div.desc {
+        padding: 15px;
+        text-align: center;
+      }
+      </style>
+      </head>
+      <body>
+      
+      <div class="gallery">
+        <a target="_blank" href="imcl001.jpeg">
+          <img src="vichair1.jpg" alt="Cinque Terre" width="600" height="400">
+        </a>
+        <div class="desc">CMD's Office</div>
+        
+
+      </div>
+      
+      <div class="gallery">
+        <a target="_blank" href="imcl002.jpeg">
+          <img src="vichair2.jpg" alt="Forest" width="600" height="400">
+        </a>
+        <div class="desc">Consulting Room</div>
+      </div>
+      
+      <div class="gallery">
+        <a target="_blank" href="imcl003.jpeg">
+          <img src="vichair3.jpg" alt="Northern Lights" width="600" height="400">
+        </a>
+        <div class="desc">IMCL</div>
+      </div>
+      
+      <div class="gallery">
+        <a target="_blank" href="imcl004.jpeg">
+          <img src="vichair4.jpg" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Med.Laboratory</div>
+      </div>
+
+      <div class="gallery">
+          <a target="_blank" href="imcl005.jpeg">
+            <img src="vichair5.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">X-ray Room</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl006.jpeg">
+            <img src="vichair6.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">Nurse Desk</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl007.jpeg">
+            <img src="vichair7.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">Theatre</div>
+        </div>
+        
+        <div class="gallery">
+          <a target="_blank" href="imcl008.jpeg">
+            <img src="vichair8.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">Theatre</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl009.jpeg">
+            <img src="vichair9.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">ICU</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl0010.jpeg">
+            <img src="vichair10.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">Theatre</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl0011.jpeg">
+            <img src="vichair11.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">IMCL</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl0012.jpeg">
+            <img src="vichair12.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">CMD's Office </div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl0015.jpg">
+            <img src="vichair13.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">Reception</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl0014.jpeg">
+            <img src="vichair14.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">CMD's Office</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl0014.jpeg">
+            <img src="vichair15.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">CMD's Office</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl0014.jpeg">
+            <img src="vichair16.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">CMD's Office</div>
+        </div>
+        <div class="gallery">
+          <a target="_blank" href="imcl0014.jpeg">
+            <img src="vichair17.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">CMD's Office</div>
+        </div> <div class="gallery">
+          <a target="_blank" href="imcl0014.jpeg">
+            <img src="vichair18.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc">CMD's Office</div>
+        </div>
+
+
+        
+      
+        
+        <div class="container">
+          <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+          <img id="expandedImg" style="width:25%">
+          <div id="imgtext"></div>
+        </div>
+        
+        <script>
+        function myFunction(imgs) {
+          var expandImg = document.getElementById("expandedImg");
+          var imgText = document.getElementById("imgtext");
+          expandImg.src = imgs.src;
+          imgText.innerHTML = imgs.alt;
+          expandImg.parentElement.style.display = "block";
+        }
+        </script>
+
+   <!-- Gallery Ends -->
+
+  
+
+
+  
+  <div class="nav_down">
+    <nav class="navbar navbar-expand-sm bg-info navbar-blue, text-blue">
+    
+     <a href="https://www.vichairs,com,ng/terms-conditions/" class="mr-20">Terms of Use</a>
+                        <a href="privacypolicy.html">Privacy Policy</a> <a href="Contact.html" id="Contact-button">Contact US</a>
+    </div>
+  </div>
+
+  
+    <div class="footer-links">
+  <div class="container">
+    <footer class="py-5">
+      <div class="row">
+        <div class="col-6 col-md-2 mb-3">
+          <h5>ABOUT US</h5>
+          <ul class="nav flex-column">
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">About Us</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Shopping</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Delivery Policy</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Payment</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Privacy Policy</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Site Map</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Intelectual Property Rights</a></li>
+           
+          </ul>
+        </div>
+  
+        <div class="col-6 col-md-2 mb-3">
+          <h5>CUSTOMER SERVICE</h5>
+          <ul class="nav flex-column">
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">My Account</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Track Your Order</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Returns & Refunds</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Contact Us</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Terms & Conditions</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">FAQs About Product & Services</a></li>
+           
+          </ul>
+        </div>
+  
+        <div class="col-6 col-md-2 mb-3">
+          <h5>EXPERT HELP</h5>
+          <ul class="nav flex-column">
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">New Buyers Guide</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Color Guide</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Human vs Synthetic</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Find your Wig Cap Size</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Determine Face Shape</a></li>
+            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">How to Apply & Care</a></li>
+        
+          </ul>
+        </div>
+  
+        <div class="col-md-5 offset-md-1 mb-3">
+          <form>
+            <h5>Subscribe to our newsletter</h5>
+            <p>Monthly digest of what's new and exciting from us.</p>
+            <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+              <label for="newsletter1" class="visually-hidden">Email address</label>
+              <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
+              <button class="btn btn-primary" type="button">Subscribe</button>
+
+
+              
+    
+    
+
+            </div>
+          </form>
+        </div>
+      </div>
+
+
+
+
+      <h4 style="color:rgb(218, 49, 57);"> LOCATION</h4>
+      <h4 style="color:#803131;"> NO 3 Court Road, Igwuruta, Rivers State,Nigeria</h4><br>
+      <h3></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+      <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+        <p>&copy; Copy Right 2024 westlinatreathair.com.ng All Rights Reserved.</p>
+
+        <p>Follow Us @:</p>
+
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-whatsapp"></a>
+<a href="#" class="fa fa-linkedin"></a>
+<a href="#" class="fa fa-youtube"></a>
+
+
+
+
+
+        <ul class="list-unstyled d-flex">
+          <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"/></svg></a></li>
+          <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"/></svg></a></li>
+          <li class="ms-3"><a class="link-body-emphasis" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"/></svg></a></li>
+        </ul>
+      </div>
+    </footer>
+  </div>
+  <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<style>
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+ 
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  
+  
+  .fa-whatsapp {
+    background: #ff5700;
+    color: white;
+  }
+  
+  
+  </style>
+  </head>
+  <body>
+  
+  
+  
+  
+
+
+
+   
+            
+                        
+                            
+                                          
+                            
+                            
+                        
+                    </div>
+                </div>
+                
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+
+
+
+
+        
+ 
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
